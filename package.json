@@ -1,0 +1,12 @@
+{
+  "name": "mock-webhook-server",
+  "version": "1.0.0",
+  "description": "Mock responder for webhook/notification error-handling test scenarios",
+  "main": "mock-webhook-server.js",
+  "scripts": {
+    "start": "node mock-webhook-server.js"
+  },
+  "engines": {
+    "node": ">=18"
+  }
+}
